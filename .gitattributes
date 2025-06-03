@@ -1,0 +1,2 @@
+# Treat everything as text and normalize EOL to LF
+* text eol=lf
